@@ -1,5 +1,5 @@
 # Blender-MassDataBlock-Converter
-Allows you to check all objects that share the same data-block and separate them into unique data-blocks for each of these objects.
+Allows you to check all objects that share the same data-block and separate them into unique data-blocks for each object.
 
 ![preview](https://github.com/user-attachments/assets/2ddf53a9-8601-4709-8bec-0de763473a2d)
 

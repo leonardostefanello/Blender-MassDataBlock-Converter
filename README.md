@@ -1,4 +1,4 @@
-# Blender-Polygon-Selector
+# Blender-MassDataBlock-Converter
 Allows you to check all objects that share the same data-block and separate them into unique data-blocks for each of these objects.
 
 ![preview](https://github.com/leonardostefanello/Blender-Polygon-Selector/assets/66969944/13eb7ae3-7a38-4845-ac5d-db10693300e0)

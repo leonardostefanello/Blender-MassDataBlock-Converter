@@ -1,7 +1,7 @@
 # Blender-MassDataBlock-Converter
 Allows you to check all objects that share the same data-block and separate them into unique data-blocks for each of these objects.
 
-![preview](https://github.com/user-attachments/assets/95906895-b7a9-4c7c-8d3c-88f0d7fbdcff)
+![preview](https://github.com/user-attachments/assets/2ddf53a9-8601-4709-8bec-0de763473a2d)
 
 ~ Location -> **3D Viewport Side Bar Export Tab** (View3D > Sidebar > Triangle Selector).
 
